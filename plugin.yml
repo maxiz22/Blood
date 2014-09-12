@@ -1,0 +1,5 @@
+    name: Blood
+    main: com.servermineros.blood.Blood
+    version: 1.0
+    author: maxiz22
+    description: Blood
